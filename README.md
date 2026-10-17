@@ -5,4 +5,4 @@
 
 jangan lupa di isi
 
-ini readme nya front end
+ini main utama nya
